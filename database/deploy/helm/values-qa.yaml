@@ -1,6 +1,6 @@
 image:
   registry: docker.io
-  repository: kubetm/database-service
+  repository: sukkie51/database-service
   tag: latest
 # docker build -t kubetm/database-service:latest
 
